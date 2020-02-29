@@ -1,1 +1,4 @@
-hello
+class Hello
+{
+
+}
